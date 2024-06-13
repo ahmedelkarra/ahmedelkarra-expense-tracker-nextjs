@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+The link leads to a placeholder webpage called "Example Domain." This site is used as a demonstration in documentation and instructional materials. For more information,
+visit https://ahmedelkarra-expense-tracker-nextjs.vercel.app/
+
 First, run the development server:
 
 ```bash
